@@ -1,0 +1,15 @@
+/Users/semenpancenko/Documents/GB/C#/Seminar_5/Task31/bin/Debug/net6.0/Task31
+/Users/semenpancenko/Documents/GB/C#/Seminar_5/Task31/bin/Debug/net6.0/Task31.deps.json
+/Users/semenpancenko/Documents/GB/C#/Seminar_5/Task31/bin/Debug/net6.0/Task31.runtimeconfig.json
+/Users/semenpancenko/Documents/GB/C#/Seminar_5/Task31/bin/Debug/net6.0/Task31.dll
+/Users/semenpancenko/Documents/GB/C#/Seminar_5/Task31/bin/Debug/net6.0/Task31.pdb
+/Users/semenpancenko/Documents/GB/C#/Seminar_5/Task31/obj/Debug/net6.0/Task31.csproj.AssemblyReference.cache
+/Users/semenpancenko/Documents/GB/C#/Seminar_5/Task31/obj/Debug/net6.0/Task31.GeneratedMSBuildEditorConfig.editorconfig
+/Users/semenpancenko/Documents/GB/C#/Seminar_5/Task31/obj/Debug/net6.0/Task31.AssemblyInfoInputs.cache
+/Users/semenpancenko/Documents/GB/C#/Seminar_5/Task31/obj/Debug/net6.0/Task31.AssemblyInfo.cs
+/Users/semenpancenko/Documents/GB/C#/Seminar_5/Task31/obj/Debug/net6.0/Task31.csproj.CoreCompileInputs.cache
+/Users/semenpancenko/Documents/GB/C#/Seminar_5/Task31/obj/Debug/net6.0/Task31.dll
+/Users/semenpancenko/Documents/GB/C#/Seminar_5/Task31/obj/Debug/net6.0/refint/Task31.dll
+/Users/semenpancenko/Documents/GB/C#/Seminar_5/Task31/obj/Debug/net6.0/Task31.pdb
+/Users/semenpancenko/Documents/GB/C#/Seminar_5/Task31/obj/Debug/net6.0/Task31.genruntimeconfig.cache
+/Users/semenpancenko/Documents/GB/C#/Seminar_5/Task31/obj/Debug/net6.0/ref/Task31.dll
