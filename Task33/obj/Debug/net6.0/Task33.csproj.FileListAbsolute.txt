@@ -1,0 +1,15 @@
+/Users/semenpancenko/Documents/GB/C#/Seminar_5/Task33/obj/Debug/net6.0/Task33.csproj.AssemblyReference.cache
+/Users/semenpancenko/Documents/GB/C#/Seminar_5/Task33/obj/Debug/net6.0/Task33.GeneratedMSBuildEditorConfig.editorconfig
+/Users/semenpancenko/Documents/GB/C#/Seminar_5/Task33/obj/Debug/net6.0/Task33.AssemblyInfoInputs.cache
+/Users/semenpancenko/Documents/GB/C#/Seminar_5/Task33/obj/Debug/net6.0/Task33.AssemblyInfo.cs
+/Users/semenpancenko/Documents/GB/C#/Seminar_5/Task33/obj/Debug/net6.0/Task33.csproj.CoreCompileInputs.cache
+/Users/semenpancenko/Documents/GB/C#/Seminar_5/Task33/bin/Debug/net6.0/Task33
+/Users/semenpancenko/Documents/GB/C#/Seminar_5/Task33/bin/Debug/net6.0/Task33.deps.json
+/Users/semenpancenko/Documents/GB/C#/Seminar_5/Task33/bin/Debug/net6.0/Task33.runtimeconfig.json
+/Users/semenpancenko/Documents/GB/C#/Seminar_5/Task33/bin/Debug/net6.0/Task33.dll
+/Users/semenpancenko/Documents/GB/C#/Seminar_5/Task33/bin/Debug/net6.0/Task33.pdb
+/Users/semenpancenko/Documents/GB/C#/Seminar_5/Task33/obj/Debug/net6.0/Task33.dll
+/Users/semenpancenko/Documents/GB/C#/Seminar_5/Task33/obj/Debug/net6.0/refint/Task33.dll
+/Users/semenpancenko/Documents/GB/C#/Seminar_5/Task33/obj/Debug/net6.0/Task33.pdb
+/Users/semenpancenko/Documents/GB/C#/Seminar_5/Task33/obj/Debug/net6.0/Task33.genruntimeconfig.cache
+/Users/semenpancenko/Documents/GB/C#/Seminar_5/Task33/obj/Debug/net6.0/ref/Task33.dll
